@@ -1,4 +1,4 @@
-This is the source of the [SoftTh](http://www.kegetys.fi/SoftTH/) configuration tool I started a while ago. Get the current build from [softth.com](http://softth.com/?page_id=2217)
+This is the source of the [SoftTh](http://www.softth.net/?page=home) configuration tool I started a while ago. Get the current build from [softth.com](http://www.mechatronics4you.com/wp-content/plugins/download-monitor/download.php?id=13)
 
 Copyright 2011 Oliver Mueller
 
