@@ -1,3 +1,6 @@
+# SoftThConfigTool Fork for github release
+
+# Original README.md
 This is the source of the [SoftTh](http://www.softth.net/?page=home) configuration tool I started a while ago. Get the   [current build](http://www.mechatronics4you.com/wp-content/plugins/download-monitor/download.php?id=13).
 
 Copyright 2011 Oliver Mueller
