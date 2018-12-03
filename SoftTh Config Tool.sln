@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftTh Config Tool", "SoftTh Config Tool\SoftTh Config Tool.csproj", "{749F7C46-1645-47B1-A859-5EB426D7E54F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftTh Config Tool", "Source\SoftTh Config Tool.csproj", "{749F7C46-1645-47B1-A859-5EB426D7E54F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
