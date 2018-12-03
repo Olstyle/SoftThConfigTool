@@ -1,11 +1,3 @@
-# SoftThConfigTool Fork for github release
-## Install & Run
-1. Click [Here](https://github.com/icaros7/SoftThConfigTool/releases/latest) or Go to Latest Release, Release Tab.
-2. Click **Source code(zip)** for Download ZIP.
-3. Extact ZIP **anywhere you want**
-4. Just run "**SoftTh Config Tool\SoftTh Config Tool.exe**"
-
-# Original README.md
 This is the source of the [SoftTh](http://www.softth.net/?page=home) configuration tool I started a while ago. Get the   [current build](http://www.mechatronics4you.com/wp-content/plugins/download-monitor/download.php?id=13).
 
 Copyright 2011 Oliver Mueller
