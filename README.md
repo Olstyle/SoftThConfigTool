@@ -14,3 +14,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
+## Install & Run	
+1. Click [Here](https://github.com/icaros7/SoftThConfigTool/releases/latest) or Go to Latest Release, Release Tab.	
+2. Click **Source code(zip)** for Download ZIP.	
+3. Extact ZIP **anywhere you want**	
+4. Just run "**SoftTh Config Tool\SoftTh Config Tool.exe**"
